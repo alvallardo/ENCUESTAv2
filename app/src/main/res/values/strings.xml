@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ENCUESTA</string>
+
+    <string-array name="spinner_items">
+        <item>Chimbombo</item>
+        <item>Terremoto</item>
+        <item>Limari</item>
+        <item>Grosso</item>
+        <item>Baltica</item>
+
+
+    </string-array>
+</resources>
